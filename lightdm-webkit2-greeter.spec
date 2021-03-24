@@ -47,6 +47,8 @@ Provides:       lightdm-greeter
 Provides:       lightdm-webkit-greeter
 Conflicts:      lightdm-webkit-greeter
 
+%global debug_package %{nil}
+
 %description
 
 %prep
